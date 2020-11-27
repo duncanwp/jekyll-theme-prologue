@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Duncan  Watson-Parris
+title: Duncan Watson-Parris
 subtitle: Atmospheric Physicist
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a climate scientist using machine learning to better understand how
@@ -38,7 +38,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   and greenhouse gasses
 author: Duncan Watson-Parris
 email: duncan.watson-parris@physics.ox.ac.uk
-avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 #baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
@@ -58,4 +57,7 @@ google_analytics: UA-157583715-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+collections: [sections, projects]
+
+plugins:
+  - jekyll-seo-tag
