@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Duncan Watson-Parris
-subtitle: Your awesome subtitle
+title: Duncan  Watson-Parris
+subtitle: Atmospheric Physicist
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a climate scientist using machine learning to better understand how
   clouds respond to (and feedback on) human-induced changes in aerosol
@@ -47,15 +47,11 @@ avatar: assets/images/avatar.jpg
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url: https://twitter.com/dwatsonparris
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
+linkedin_url: https://www.linkedin.com/in/duncan-watson-parris-1b22873a/
+github_url: https://github.com/duncanwp/
+scholar_url: https://scholar.google.co.uk/citations?user=LK2IWlAAAAAJ
 stackoverflow_url:
-pinterest_url:
-slack_url:
-dribbble_url:
+
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-157583715-1
