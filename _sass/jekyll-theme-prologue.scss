@@ -270,6 +270,10 @@
 		&.left {
 			float: left;
 			margin: 0 2em 2em 0;
+			width: 45%; /* Will shrink image to 30% of its original width */
+			min-width: 300px;
+			height: auto;
+
 		}
 
 		&.right {
