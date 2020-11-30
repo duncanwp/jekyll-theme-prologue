@@ -65,7 +65,7 @@
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #D3D6E6;
 
 		&.is-loading * {
 			@include vendor('transition', 'none !important');
@@ -83,7 +83,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #C7CAD9;
 		line-height: 1.5em;
 	}
 
@@ -119,7 +119,13 @@
 
 	strong, b {
 		font-weight: 400;
-		color: #666;
+		color: #669ce7;
+	}
+
+	// Used for strong highlights
+	h4 {
+		font-weight: 400;
+		color: #BF974B;
 	}
 
 	em, i {
@@ -441,14 +447,14 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #BF974B;
 		border: 0;
 		cursor: pointer;
 		@include vendor('background-image', ('linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15))', 'url("images/overlay.png")'));
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
 
 		&:hover {
-			background-color: #9ececc;
+			background-color: #BD974B;
 		}
 
 		&:active {
@@ -557,7 +563,7 @@
 			position: relative;
 			display: block;
 			font-size: 0.6em;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.9);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
 		}
@@ -608,7 +614,7 @@
 						color: #fff;
 
 						span::before {
-							color: #437eff;
+							color: #4B7DBF;
 						}
 					}
 				}
@@ -621,7 +627,7 @@
 	#footer {
 		margin-left: 375px;
 		text-align: center;
-		background-color: #dcdee3;
+		background-color: #284266;
 		padding: 3em 0 4em 0;
 		box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 		font-size: 0.8em;
@@ -707,19 +713,19 @@
 			}
 
 			&.shade-one {
-				background-color: #8eade9;
+				background-color: #375A8C;
 			}
 
 			&.shade-two {
-				background-color: #cfdaee;
+				background-color: #325380;
 			}
 
 			&.shade-three {
-				background-color: #b3c3d7;
+				background-color: #416CA6;
 			}
 
 			&.shade-four {
-				background-color: #a6bbd6;
+				background-color: #5085CC;
 			}
 		}
 	}
@@ -1135,7 +1141,7 @@
 	// Create an alternating news list
 	img.news-image {
 	  //background: #dadada;
-	  height: 150px;
+	  height: 100px;
 	  width: auto;
 	}
 	p.news-info {
@@ -1146,16 +1152,18 @@
 	  border-top: 1px solid #dadada;
 	}
 	.news-item:nth-child(odd) div.news-info {
-	  float: right;
+	  //float: right;
 		text-align: right;
 	}
 	.news-item:nth-child(odd) div.news-image {
 	  float: left;
+		text-align: left;
 	}
 	.news-item:nth-child(even) div.news-info {
-	  float: left;
+	  //float: left;
 		text-align: left;
 	}
 	.news-item:nth-child(even) div.news-image {
 	  float: right;
+		text-align: left;
 	}

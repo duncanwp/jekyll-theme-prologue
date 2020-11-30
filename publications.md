@@ -37,9 +37,7 @@ order: 3
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
     *Submitted Nature Communications*: <https://arxiv.org/abs/2001.08055>  
-    **Highlight**: "From models of galaxies to atoms, simple AI shortcuts
-    speed up simulations by billions of times." *Science*
-    10.1126/science.abb2769
+#### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
     
 ### 2020
  -  **Watson-Parris, D.** "Machine learning for climate and weather are
@@ -87,9 +85,7 @@ order: 3
     **Watson-Parris, D.** "Efficacy of Climate Forcings in PDRMIP
     Models". *Journal of Geophysical Research: Atmospheres, 124, 12824--
     12844:* <https://doi.org/10.1029/2019JD030581>  
-    **Editors' Highlight:** "How Does Climate Respond to Different
-    Forcings?"
-    <https://eos.org/editor-highlights/how-does-climate-respond-to-different-forcings>
+#### Editors' Highlight: "How Does Climate Respond to Different Forcings?" <https://eos.org/editor-highlights/how-does-climate-respond-to-different-forcings>
  - Hodnebrog, O., Myhre, G., Samset, B. H., Alterskjær, K., Andrews,
     T., Boucher, O., Faluvegi, G., Fläschner, D., M Forster, P., ...,
     **Watson-Parris, D.** "Water vapour adjustments and responses differ
@@ -118,9 +114,7 @@ order: 3
     **Watson‐Parris, D.**, ..., Stevens, B. "Bounding global aerosol
     radiative forcing of climate change". *Reviews of Geophysics,
     2019RG000660:* <https://doi.org/10.1029/2019RG000660>  
-    **Editors' Highlight:** "Effects of Particles on Climate Remain
-    Unsettled"
-    <https://eos.org/editor-highlights/effects-of-particles-on-climate-remain-unsettled>
+#### Editors' Highlight: "Effects of Particles on Climate Remain Unsettled" <https://eos.org/editor-highlights/effects-of-particles-on-climate-remain-unsettled>
  - Heikenfeld, M., Marinescu, P. J., Christensen, M., **Watson-Parris,
     D.**, Senf, F., Van Den Heever, S. C., & Stier, P. (2019). "Tobac 1.2:
     Towards a flexible framework for tracking and analysis of clouds in
@@ -200,7 +194,7 @@ order: 3
     landscape and carrier wave-functions in InGaN/GaN quantum wells".
     *Physica Status Solidi (C)*, *7*, 2255--2258:
     <https://doi.org/10.1002/pssc.200983516>  
-    **Highlight:** Chosen for the cover page of special issue
+#### Highlight: Chosen for the cover page of special issue
 
 ## Conference Papers
 
@@ -217,10 +211,10 @@ order: 3
     J., **Watson-Parris, D.** "Cumulo: A Dataset for Learning Cloud
     Classes" *Climate Change AI workshop at NeurIPS 2019, Vancouver,
     Canada:* <https://arxiv.org/abs/1911.04227>  
-    **Highlight:** Chosen for 'best paper' award
+#### Highlight: Chosen for 'best paper' award
  -  **Watson-Parris, D.**, Sutherland, S., Christensen, M., Caterini,
     A., Sejdinovic, D., Stier, P. "Detecting anthropogenic cloud
     perturbations with deep learning" *Climate Change: How Can AI Help?
     workshop at ICML 2019, Long Beach, California:*
     <https://arxiv.org/abs/1911.13061>  
-    **Highlight:** Chosen for 'best paper' award
+#### Highlight: Chosen for 'best paper' award
