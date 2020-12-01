@@ -3,12 +3,14 @@ title: Detecting Ship-tracks
 layout: project
 icon: fa-ship
 icon-style: regular
+order: 3
 ---
 
 Studied for many decades now, ship-tracks are a classic example of aerosol-cloud interactions. These perturbations to cloud albedo by aerosol emitted from ship exhaust are however very local and attempts to understand their relevance in terms of estimating global cloud droplet number and liquid water sensitivities flounder on the question of their representativeness. 
 
 <span class="image"><img src="{{ 'assets/images/shiptracks.jpg' | relative_url }}" alt="Shiptracks in the North-East
  Atlantic" /></span>
+ *Fig. 1: Clearly visible ship-tracks in the North-East Atlantic*
 
 I have developed a deep convolutional neural network model trained on several existing hand-logged
  datasets to automatically detect these ship-tracks in observations and develop large-scale statistics about their
@@ -30,3 +32,13 @@ Recently, I've also run the model using Geostationary
 Exploring these meteorological controls on shiptrack prevelance in this region by combining these detections with
  reanalysis data is ongoing. An improved ML model, and daytime imagery will also allow for increased precision and
   reduced noise in our sensitivity estimates.
+
+## Relevant papers
+ - **Watson-Parris, D.**, Sutherland, S., Christensen, M., Caterini,
+    A., Sejdinovic, D., Stier, P. "Detecting anthropogenic cloud
+    perturbations with deep learning" *Climate Change: How Can AI Help?
+    workshop at ICML 2019, Long Beach, California:*
+    <https://arxiv.org/abs/1911.13061>  
+
+## Code
+ - Coming soon!
