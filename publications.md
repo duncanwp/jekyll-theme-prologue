@@ -16,9 +16,6 @@ order: 3
     "Decomposing Indirect Aerosol Forcing by Global Cloud Regimes".
     *Submitted Geophysical Research Letters:*
     <https://doi.org/10.1002/essoar.10504093.1>
- -  Brown, H, Liu, X., ..., **Watson-Paris, D.**, ..., Chand, D. "Biomass
-    burning aerosols in most climate models are too absorbing".
-    *Submitted Nature Communications*
  -  Dagan, G., Stier, P. & **Watson-Parris, D.** "An energetic view on the
     geographical dependence of the fast aerosol radiative effects on
     precipitation". *Submitted JGR: Atmospheres:*
@@ -36,16 +33,19 @@ order: 3
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
-    *Submitted Nature Communications*: <https://arxiv.org/abs/2001.08055>  
+    *Submitted Proceedings of the National Academy of Sciences*: <https://arxiv.org/abs/2001.08055>  
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
     
 ### 2020
  -  **Watson-Parris, D.** "Machine learning for climate and weather are
     worlds apart". *Accepted at Phil. Tran. A:*
     <https://arxiv.org/abs/2008.10679>
+ -  Brown, H, Liu, X., ..., **Watson-Paris, D.**, ..., Chand, D. "Biomass
+    burning aerosols in most climate models are too absorbing".
+    *Accepted Nature Communications*
  -  Dagan, G., Stier, P. & **Watson-Parris, D.** "Aerosol forcing masks
     and delays the formation of the North-Atlantic warming hole by three
-    decades". *Geophysical Research Letters, 47:*  
+    decades". *Geophysical Research Letters, 47:* 
     <https://doi.org/10.1029/2020GL090778>
  -  Haywood, J. M., Abel, S., ... **Watson-Parris, D.**, ... Zuidema, P.
     "Overview: The CLoud-Aerosol-Radiation Interaction and Forcing:
@@ -198,13 +198,24 @@ order: 3
 
 ## Conference Papers
 
-### Submitted
+(In the field of Machine Learning most academic output is in the form of conference papers.)
+
+### 2020
 
  -  Schroeder de Witt, C., Tong, C., Zantedeschi, V., Martini D.,
     Kalaitzis, A., Chantry, M., **Watson-Parris, D.**, Bilinski, P.
     "RainBench: Towards Data-Driven Global Precipitation Forecasting
     from Satellite Imagery" *Thirty-Fifth AAAI Conference on Artificial
     Intelligence*
+ - Tong, C., Schroeder de Witt, C. A., Zantedeschi, V., Martini, D., Kalaitzis, A., Chantry, M
+ ., **Watson-Parris, D.**, Bilinski, P. "RainBench: Enabling Data-Driven Precipitation Forecasting on a Global Scale" *Tackling
+  Climate Change with
+  Machine Learning workship at NeurIPS 2020*
+#### Highlight: Spotlight talk
+ - Zantedeschi, V., Martini, D., Tong, C., Schroeder de Witt, C. A., Bilinski, P., Kalaitzis, A., Chantry, M
+ ., **Watson-Parris, D.** "Towards Data-Driven Physics-Informed Global Precipitation Forecasting From Satellite
+  Imagery" *AI for Earth Sciences workshop at NeurIPS 2020*: <https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_20.pdf>  
+#### Highlight: Spotlight talk
 
 ### 2019
  -  Zantedeschi, V., Falasca, F., Douglas, A., Strange, R., Kusner, M.
