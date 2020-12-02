@@ -11,7 +11,10 @@ Large computer models requiring hundreds of input parameters, taking thousands o
  paper](https://arxiv.org/abs/2008.10679), it is becoming
  common practice to develop emulators as fast approximations of these models in order to explore the relationships between these inputs and outputs, understand uncertainties and generate large ensembles datasets. 
 
-Primarily, I build emulations using Gaussian Process regression across different (uncertain) input parameters in
+<span class="image left"><img src="{{ 'assets/images/emulator_schematic.svg' | relative_url }}" alt="A schematic diagram of 
+emulation of two climate model parameters" /></span>
+
+Primarily, I build emulators using Gaussian Process regression across different (uncertain) input parameters in
  order to allow fast sampling for likelihood-free inference. (Basically determining the parameter combinations which
   produce outputs which are compatible with the available observations.) I've used this approach for
    constraining parametric
