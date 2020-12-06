@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   clouds respond to (and feedback on) human-induced changes in aerosol
   and greenhouse gasses
 author: Duncan Watson-Parris
-email: duncan.watson-parris@physics.ox.ac.uk
+email: duncan@watson-parris.co.uk
 
 # You'll want to customize url and baseurl for your own site:
 #baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
