@@ -2,7 +2,7 @@
 title: Climate model emulation
 layout: project
 icon: fa-tachometer-alt
-icon-style: regular
+icon-style: solid
 order: 1
 ---
 
