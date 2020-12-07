@@ -61,6 +61,8 @@ collections:
   sections:
   projects:
     output: true
+  pub_types:
+    output: true
 
 plugins:
   - jekyll-seo-tag

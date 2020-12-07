@@ -1,14 +1,16 @@
 {%- comment -%}
   Include vars:
 	title
-  subtitle
+    subtitle
 	photo
 	photo-alt
 	auto-header
 	content
+    align
 {%- endcomment -%}
 
 {%- assign _title = include.title | default: 'Untitled' -%}
+{%- assign _align = include.align | default: 'center' -%}
 {%- assign _slug = include.title | strip_html | slugify | default: 'untitled' -%}
 
 {%- if include.photo and include.photo-alt -%}
@@ -39,7 +41,7 @@
 {%- endif -%}
 
 <section id="{{- _slug -}}" class="{{- _class -}}">
-  <div class="container">
+  <div class="container" align="{{- _align -}}">
     {{- _photo -}}
     {{- _heading -}}
     {{- include.content -}}

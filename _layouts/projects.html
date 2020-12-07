@@ -16,6 +16,6 @@ layout: default
 		{%- capture _excerpt -%}<p>{{- _project.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _project.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
-		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
+		{%- include section.html title=_title subtitle=_subtitle content=_content align='left' -%}
 	{%- endfor -%}
 </div>
