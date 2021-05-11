@@ -6,13 +6,16 @@ icon: none
 
 (In the field of Machine Learning most academic output is in the form of conference papers.)
 
-### 2020
+### 2021
 
  -  Schroeder de Witt, C., Tong, C., Zantedeschi, V., Martini D.,
     Kalaitzis, A., Chantry, M., **Watson-Parris, D.**, Bilinski, P.
     "RainBench: Towards Data-Driven Global Precipitation Forecasting
     from Satellite Imagery" *Thirty-Fifth AAAI Conference on Artificial
     Intelligence*
+
+### 2020
+
  - Tong, C., Schroeder de Witt, C. A., Zantedeschi, V., Martini, D., Kalaitzis, A., Chantry, M
  ., **Watson-Parris, D.**, Bilinski, P. "RainBench: Enabling Data-Driven Precipitation Forecasting on a Global Scale" *Tackling
   Climate Change with

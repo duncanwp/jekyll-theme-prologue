@@ -5,22 +5,21 @@ icon: none
 ---
 
 ### Submitted
-
- - Gettelman, A., Lamboll, R. D., Bardeen, C., Forster, P., **Watson-Parris, D.** 
- "Climate Impacts of COVID-19 Induced Emission Changes". *Submitted 
- Geophysical Research Letters:* <https://doi.org/10.1002/essoar.10504093.1>
+ - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
+   global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
+   Journal of Advances in Modeling Earth Systems*
+ - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
+   "Aerosol absorption in global models from AeroCom Phase III". 
+   *Submitted to Atmospheric Chemistry and Physics:*
+   <https://doi.org/10.5194/acp-2021-51>
+ -  Zhang, S., Stier, P., **Watson-Parris, D.** "On the Contribution 
+    of Fast and Slow Responses to Precipitation Changes Caused by 
+    Aerosol Perturbations". *Submitted to Atmospheric Chemistry and 
+    Physics:* <https://doi.org/10.5194/acp-2020-1317>
  -  Langton, T., Stier, P., **Watson-Parris, D.**, Mulcahy, J.
     "Decomposing Indirect Aerosol Forcing by Global Cloud Regimes".
     *Submitted Geophysical Research Letters:*
     <https://doi.org/10.1002/essoar.10504093.1>
- -  Dagan, G., Stier, P. & **Watson-Parris, D.** "An energetic view on the
-    geographical dependence of the fast aerosol radiative effects on
-    precipitation". *Submitted JGR: Atmospheres:*
-    <https://www.essoar.org/doi/10.1002/essoar.10503020.1>
- -  **Watson-Parris, D**., Sutherland, S. A., Christensen, M. W. &
-    Stier, P. "A large-scale analysis of pockets of open cells and their
-    radiative impact". *Submitted Geophysical Research Letters:*
-    <https://doi.org/10.1002/essoar.10501877.1>
  -  Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
     Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog,
     Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
@@ -30,16 +29,32 @@ icon: none
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
-    *Submitted Proceedings of the National Academy of Sciences*: <https://arxiv.org/abs/2001.08055>  
+    *Submitted Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
+
+### 2021
+
+ -  **Watson-Parris, D.** "Machine learning for climate and weather are
+    worlds apart". *Phil. Trans. R. Soc. A 379:* 
+    <http://doi.org/10.1098/rsta.2020.0098>
+ -  Dagan, G., Stier, P. & **Watson-Parris, D.** "An energetic view on the
+    geographical dependence of the fast aerosol radiative effects on
+    precipitation". *JGR: Atmospheres, 126:*
+    <https://doi.org/10.1029/2020JD033045>
+ -  **Watson-Parris, D**., Sutherland, S. A., Christensen, M. W. &
+    Stier, P. "A large-scale analysis of pockets of open cells and their
+    radiative impact". *Geophysical Research Letters, 48:* <https://doi.org/10.1029/2020GL092213>
     
 ### 2020
- -  **Watson-Parris, D.** "Machine learning for climate and weather are
-    worlds apart". *Accepted at Phil. Tran. A:*
-    <https://arxiv.org/abs/2008.10679>
+
+ -  Gettelman, A., Lamboll, R. D., Bardeen, C., Forster, P., 
+    **Watson-Parris, D.** "Climate Impacts of COVID-19 Induced 
+    Emission Changes". *Geophysical Research Letters, 48:* 
+    <https://doi.org/10.1029/2020GL091805>
+#### Highlight: COVID-19 lockdowns temporarily raised global temperatures <https://bit.ly/3p20zc8>
  -  Brown, H, Liu, X., ..., **Watson-Paris, D.**, ..., Chand, D. "Biomass
     burning aerosols in most climate models are too absorbing".
-    *Accepted Nature Communications*
+    *Nature Communications:* <https://doi.org/10.1038/s41467-020-20482-9>
  -  Dagan, G., Stier, P. & **Watson-Parris, D.** "Aerosol forcing masks
     and delays the formation of the North-Atlantic warming hole by three
     decades". *Geophysical Research Letters, 47:* 
