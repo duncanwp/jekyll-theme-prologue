@@ -4,11 +4,16 @@ order: 2
 icon: none
 ---
 
-(In the field of Machine Learning most academic output is in the form of conference papers.)
+(In the field of Machine Learning most academic output is in the form of peer-reviewed conference papers.)
 
 ### 2021
-
- -  Schroeder de Witt, C., Tong, C., Zantedeschi, V., Martini D.,
+ - Jesson, A., Manshausen, P., Douglas, A., **Watson-Parris, D.**, Gal, Y., Stier, P. 
+   “Using Non-Linear Causal Models to Study Aerosol-Cloud Interactions in the Southeast Pacific”
+   *Climate Change AI workshop at NeurIPS 2021*: <https://arxiv.org/abs/2110.15084>
+ - Harder, P., **Watson-Parris, D.**, Strassel, D., Gauger, N., Stier, P., Keuper, J. 
+  "Emulating Aerosol Microphysics with Machine Learning" *Tackling Climate Change with Machine Learning Workshop at 
+   ICML 2021*
+ - Schroeder de Witt, C., Tong, C., Zantedeschi, V., Martini D.,
     Kalaitzis, A., Chantry, M., **Watson-Parris, D.**, Bilinski, P.
     "RainBench: Towards Data-Driven Global Precipitation Forecasting
     from Satellite Imagery" *Thirty-Fifth AAAI Conference on Artificial

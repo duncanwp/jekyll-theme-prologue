@@ -5,22 +5,25 @@ icon: none
 ---
 
 ### Submitted
+ - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
+   control of effective radiative forcing by the spatial pattern of 
+   absorbing aerosol". *Submitted to Nature Climate Change*
+ - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
+   calibration using ESEm v1.0.0 – an open, scalable Earth System
+   Emulator". *Submitted to Geoscientific Model Development:*
+   <https://doi.org/10.5194/gmd-2021-267>
+ - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
+   "Observational constraints reduce estimates of the 
+   global mean climate relevance of black carbon". *Submitted to
+   Nature Climate Change*
  - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
    global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
    Journal of Advances in Modeling Earth Systems*
- - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
-   "Aerosol absorption in global models from AeroCom Phase III". 
+ - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ...
+   Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing. 
    *Submitted to Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-51>
- -  Zhang, S., Stier, P., **Watson-Parris, D.** "On the Contribution 
-    of Fast and Slow Responses to Precipitation Changes Caused by 
-    Aerosol Perturbations". *Submitted to Atmospheric Chemistry and 
-    Physics:* <https://doi.org/10.5194/acp-2020-1317>
- -  Langton, T., Stier, P., **Watson-Parris, D.**, Mulcahy, J.
-    "Decomposing Indirect Aerosol Forcing by Global Cloud Regimes".
-    *Submitted Geophysical Research Letters:*
-    <https://doi.org/10.1002/essoar.10504093.1>
- -  Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
+   <https://doi.org/10.5194/acp-2021-559>
+ - Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
     Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog,
     Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
     radiative forcing across multiple climate drivers". *Under review
@@ -33,15 +36,26 @@ icon: none
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
 
 ### 2021
-
- -  **Watson-Parris, D.** "Machine learning for climate and weather are
+ - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
+   "Aerosol absorption in global models from AeroCom Phase III". 
+   *Atmospheric Chemistry and Physics:*
+   <https://doi.org/10.5194/acp-2021-51>
+ - Zhang, S., Stier, P., **Watson-Parris, D.** "On the Contribution 
+    of Fast and Slow Responses to Precipitation Changes Caused by 
+    Aerosol Perturbations". *Atmospheric Chemistry and 
+    Physics, 21:* <https://doi.org/10.5194/acp-21-10179-2021>
+ - Langton, T., Stier, P., **Watson-Parris, D.**, Mulcahy, J.
+    "Decomposing Indirect Aerosol Forcing by Global Cloud Regimes".
+    *Geophysical Research Letters, 48:*
+    <http://dx.doi.org/10.1029/2021GL093833>
+ - **Watson-Parris, D.** "Machine learning for climate and weather are
     worlds apart". *Phil. Trans. R. Soc. A 379:* 
     <http://doi.org/10.1098/rsta.2020.0098>
- -  Dagan, G., Stier, P. & **Watson-Parris, D.** "An energetic view on the
+ - Dagan, G., Stier, P. & **Watson-Parris, D.** "An energetic view on the
     geographical dependence of the fast aerosol radiative effects on
     precipitation". *JGR: Atmospheres, 126:*
     <https://doi.org/10.1029/2020JD033045>
- -  **Watson-Parris, D**., Sutherland, S. A., Christensen, M. W. &
+ - **Watson-Parris, D**., Sutherland, S. A., Christensen, M. W. &
     Stier, P. "A large-scale analysis of pockets of open cells and their
     radiative impact". *Geophysical Research Letters, 48:* <https://doi.org/10.1029/2020GL092213>
     
