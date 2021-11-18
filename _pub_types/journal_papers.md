@@ -10,7 +10,7 @@ icon: none
    absorbing aerosol". *Submitted to Nature Climate Change*
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
    calibration using ESEm v1.0.0 – an open, scalable Earth System
-   Emulator". *Submitted to Geoscientific Model Development:*
+   Emulator". *Accepted at Geoscientific Model Development:*
    <https://doi.org/10.5194/gmd-2021-267>
  - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
    "Observational constraints reduce estimates of the 
