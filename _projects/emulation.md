@@ -36,7 +36,7 @@ performed for CMIP6. Benchmark models and evaluation criteria are described in a
  
 ## Relevant papers
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
-   calibration using ESEm v1.0.0 – an open, scalable Earth System
+   calibration using ESEm v1.1.0 – an open, scalable Earth System
    Emulator". *Accepted at Geoscientific Model Development:*
    <https://doi.org/10.5194/gmd-2021-267>
  - **Watson-Parris, D.** "Machine learning for climate and weather are
@@ -57,7 +57,11 @@ performed for CMIP6. Benchmark models and evaluation criteria are described in a
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
-    *Submitted Nature Communications*: <https://arxiv.org/abs/2001.08055>  
+    *Accepted at Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
 
 ## Code
  - <https://github.com/duncanwp/GCEm>
+
+## Data
+ - ClimateBench: <https://doi.org/10.5281/zenodo.5196512>
+ - Example Perturbed Parameter Ensemble (Black Carbon): <https://doi.org/10.5281/zenodo.3856644>

@@ -37,3 +37,8 @@ Ongoing work tracking the POC lifecycle in geostationary satellite imagery is in
 
 ## Code
  - <https://github.com/climate-processes/poc-detection>
+
+## Data 
+ - The hand-labelled tracks and images used for training can be found here: <https://imiracli-data.s3.us-east-2.
+   amazonaws.com/public/POC+training.zip>
+ - The resulting database of 8,491 POCs can be found here: <https://doi.org/10.5281/zenodo.4451345>

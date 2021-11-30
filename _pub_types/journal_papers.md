@@ -5,13 +5,15 @@ icon: none
 ---
 
 ### Submitted
+ - Whaley, C. H., Mahmood, R., Salzen, K., Winter, B., Eckhardt, S., ..., 
+   **Watson-Parris, D.**, Weiss-Gibbons, T. "Model evaluation of 
+   short-lived climate forcers for the Arctic Monitoring and Assessment 
+   Programme: a multi-species, multi-model study". 
+   *Submitted to Atmospheric Chemistry and Physics:*
+   <https://doi.org/10.5194/acp-2021-975>
  - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
    control of effective radiative forcing by the spatial pattern of 
    absorbing aerosol". *Submitted to Nature Climate Change*
- - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
-   calibration using ESEm v1.0.0 – an open, scalable Earth System
-   Emulator". *Accepted at Geoscientific Model Development:*
-   <https://doi.org/10.5194/gmd-2021-267>
  - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
    "Observational constraints reduce estimates of the 
    global mean climate relevance of black carbon". *Submitted to
@@ -20,7 +22,7 @@ icon: none
    global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
    Journal of Advances in Modeling Earth Systems*
  - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ...
-   Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing. 
+   "Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing". 
    *Submitted to Atmospheric Chemistry and Physics:*
    <https://doi.org/10.5194/acp-2021-559>
  - Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
@@ -28,14 +30,18 @@ icon: none
     Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
     radiative forcing across multiple climate drivers". *Under review
     Nature Geoscience*
+
+### 2021
+ - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
+   calibration using ESEm v1.1.0 – an open, scalable Earth System
+   Emulator". *Accepted at Geoscientific Model Development:*
+   <https://doi.org/10.5194/gmd-2021-267>
  - Kasim, M. F., **Watson-Parris, D.**, Deaconu, L. ,
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
     simulations in science with deep neural architecture search".
-    *Submitted Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
+    *Accepted at Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
-
-### 2021
  - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
    "Aerosol absorption in global models from AeroCom Phase III". 
    *Atmospheric Chemistry and Physics:*
