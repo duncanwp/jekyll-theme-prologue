@@ -13,7 +13,8 @@ icon: none
    <https://doi.org/10.5194/acp-2021-975>
  - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
    control of effective radiative forcing by the spatial pattern of 
-   absorbing aerosol". *Under review at Nature Climate Change*
+   absorbing aerosol". *Under review at Nature Climate Change:*
+   <https://doi.org/10.21203/rs.3.rs-1015938/v1>
  - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
    "Observational constraints reduce estimates of the 
    global mean climate relevance of black carbon". *Under review at
