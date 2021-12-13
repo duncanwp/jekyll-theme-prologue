@@ -39,9 +39,8 @@ icon: none
    <https://doi.org/10.5194/gmd-2021-267>
  - Kasim, M. F., **Watson-Parris, D.**, Deaconu, L. ,
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
-    Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Accelerating
-    simulations in science with deep neural architecture search".
-    *Accepted at Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
+    Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Building high accuracy emulators for scientiﬁc simulations with deep neural architecture search".
+    *Accepted at Machine Learning: Science and Technology:* <https://doi.org/10.1088/2632-2153/ac3ffa>  
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
  - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
    "Aerosol absorption in global models from AeroCom Phase III". 
