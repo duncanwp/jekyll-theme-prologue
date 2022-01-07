@@ -12,12 +12,12 @@ icon: none
    *Climate Change AI workshop at NeurIPS 2021*: <https://arxiv.org/abs/2110.15084>
  - Harder, P., **Watson-Parris, D.**, Strassel, D., Gauger, N., Stier, P., Keuper, J. 
   "Emulating Aerosol Microphysics with Machine Learning" *Tackling Climate Change with Machine Learning Workshop at 
-   ICML 2021*
+   ICML 2021*: <https://arxiv.org/abs/2109.10593>
  - Schroeder de Witt, C., Tong, C., Zantedeschi, V., Martini D.,
     Kalaitzis, A., Chantry, M., **Watson-Parris, D.**, Bilinski, P.
     "RainBench: Towards Data-Driven Global Precipitation Forecasting
     from Satellite Imagery" *Thirty-Fifth AAAI Conference on Artificial
-    Intelligence*: https://ojs.aaai.org/index.php/AAAI/article/view/17749
+    Intelligence*: <https://ojs.aaai.org/index.php/AAAI/article/view/17749>
 
 ### 2020
 
