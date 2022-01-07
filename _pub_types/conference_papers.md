@@ -17,7 +17,7 @@ icon: none
     Kalaitzis, A., Chantry, M., **Watson-Parris, D.**, Bilinski, P.
     "RainBench: Towards Data-Driven Global Precipitation Forecasting
     from Satellite Imagery" *Thirty-Fifth AAAI Conference on Artificial
-    Intelligence*
+    Intelligence*: https://ojs.aaai.org/index.php/AAAI/article/view/17749
 
 ### 2020
 
