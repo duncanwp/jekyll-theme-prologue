@@ -5,16 +5,18 @@ icon: none
 ---
 
 ### Submitted
+ - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench: A benchmark dataset for data-driven climate projections". 
+   *Submitted to Journal of Advances in Modeling Earth Systems:* <https://doi.org/10.1002/essoar.10509765.1>
+ - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
+   control of effective radiative forcing by the spatial pattern of 
+   absorbing aerosol". *Under review at Nature Climate Change:*
+   <https://doi.org/10.21203/rs.3.rs-1015938/v1>
  - Whaley, C. H., Mahmood, R., Salzen, K., Winter, B., Eckhardt, S., ..., 
    **Watson-Parris, D.**, Weiss-Gibbons, T. "Model evaluation of 
    short-lived climate forcers for the Arctic Monitoring and Assessment 
    Programme: a multi-species, multi-model study". 
    *Submitted to Atmospheric Chemistry and Physics:*
    <https://doi.org/10.5194/acp-2021-975>
- - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
-   control of effective radiative forcing by the spatial pattern of 
-   absorbing aerosol". *Under review at Nature Climate Change:*
-   <https://doi.org/10.21203/rs.3.rs-1015938/v1>
  - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
    "Observational constraints reduce estimates of the 
    global mean climate relevance of black carbon". *Under review at
@@ -22,10 +24,6 @@ icon: none
  - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
    global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
    Journal of Advances in Modeling Earth Systems*
- - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ...
-   "Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing". 
-   *Submitted to Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-559>
  - Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
     Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog,
     Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
@@ -35,12 +33,16 @@ icon: none
 ### 2021
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
    calibration using ESEm v1.1.0 – an open, scalable Earth System
-   Emulator". *Accepted at Geoscientific Model Development:*
-   <https://doi.org/10.5194/gmd-2021-267>
+   Emulator". *Geoscientific Model Development, 14:*
+   <https://doi.org/10.5194/gmd-14-7659-2021>
+ - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ...
+   "Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing". 
+   *Accepted at Atmospheric Chemistry and Physics:*
+   <https://doi.org/10.5194/acp-2021-559>
  - Kasim, M. F., **Watson-Parris, D.**, Deaconu, L. ,
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Building high accuracy emulators for scientiﬁc simulations with deep neural architecture search".
-    *Accepted at Machine Learning: Science and Technology:* <https://doi.org/10.1088/2632-2153/ac3ffa>  
+    *Machine Learning: Science and Technology, 3:* <https://doi.org/10.1088/2632-2153/ac3ffa>  
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
  - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
    "Aerosol absorption in global models from AeroCom Phase III". 
