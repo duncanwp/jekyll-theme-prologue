@@ -5,7 +5,7 @@ icon: none
 ---
 
 ### Submitted
- - Che, H., Stier, P., **Watson-Parris, D., Gordon, H.**,
+ - Che, H., Stier, P., **Watson-Parris, D.**, Gordon, H.,
     Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
     *Submitted to Atmospheric Chemistry and Physics*
  - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench: A benchmark dataset for data-driven climate projections". 
