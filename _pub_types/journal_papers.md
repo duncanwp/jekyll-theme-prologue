@@ -5,6 +5,9 @@ icon: none
 ---
 
 ### Submitted
+ - Che, H., Stier, P., **Watson-Parris, D., Gordon, H.**,
+    Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
+    *Submitted to Atmospheric Chemistry and Physics*
  - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench: A benchmark dataset for data-driven climate projections". 
    *Submitted to Journal of Advances in Modeling Earth Systems:* <https://doi.org/10.1002/essoar.10509765.1>
  - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
@@ -37,8 +40,8 @@ icon: none
    <https://doi.org/10.5194/gmd-14-7659-2021>
  - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ...
    "Opportunistic Experiments to Constrain Aerosol Effective Radiative Forcing". 
-   *Accepted at Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-559>
+   *Atmospheric Chemistry and Physics, 22:*
+   <https://doi.org/10.5194/acp-22-641-2022>
  - Kasim, M. F., **Watson-Parris, D.**, Deaconu, L. ,
     Topp-Mugglestone, J. , Hatfield, P., Froula, D. H., Gregori, G.,
     Jarvis, M. , Korenaga, J., Viezzer, E. & Vinko S. M. "Building high accuracy emulators for scientiﬁc simulations with deep neural architecture search".
@@ -46,8 +49,8 @@ icon: none
 #### Highlight: "From models of galaxies to atoms, simple AI shortcuts speed up simulations by billions of times." *Science* [10.1126/science.abb2769](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times)
  - Sand, M., Samset, B. H., Myhre, G., …, and **Watson-Parris, D.**
    "Aerosol absorption in global models from AeroCom Phase III". 
-   *Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-51>
+   *Atmospheric Chemistry and Physics, 21:*
+   <https://doi.org/10.5194/acp-21-15929-2021>
  - Zhang, S., Stier, P., **Watson-Parris, D.** "On the Contribution 
     of Fast and Slow Responses to Precipitation Changes Caused by 
     Aerosol Perturbations". *Atmospheric Chemistry and 
