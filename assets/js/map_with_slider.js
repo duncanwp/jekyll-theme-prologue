@@ -19,8 +19,8 @@ $(document).ready(function () {
                 maxResolution: 0.5625,
                 projection: ol.proj.get("EPSG:4326"),
                 extent: [-180, -90, 180, 90],
-                center: westcoast,
-                zoom: 3,
+                center: [0, 10],
+                zoom: 0.7,
                 maxZoom: 8
             }),
             target: "map",
@@ -31,7 +31,7 @@ $(document).ready(function () {
             var trackLayer = new ol.layer.Vector({
                 title: 'shiptracks',
                 source: new ol.source.Vector({
-                    url: '/assets/files/example_shiptracks_' + dayParameter() + '.geojson',
+                    url: '/assets/files/daily_shiptrack_files/' + dayParameter() + '_shiptracks.geojson',
                     // url: 'https://gibs-{a-c}.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?TIME=' + dayParameter(),
                     format: new ol.format.GeoJSON({geometryName: 'geometry'})
                 }),
@@ -140,7 +140,7 @@ $(document).ready(function () {
 
           const info = document.getElementById('info');
           if (feature) {
-            info.innerHTML = feature.get('brightness_temperature') || '&nbsp;';
+            info.innerHTML = feature.get('MODIS_tile') || '&nbsp;';
           } else {
             // info.innerHTML = '&nbsp;';  // Don't clear the label if we move off it
           }
