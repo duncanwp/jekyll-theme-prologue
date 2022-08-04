@@ -300,6 +300,16 @@
 				width: auto;
 			}
 		}
+
+		&.inline {
+			display: block;
+			margin: 0 1em 0 0;
+
+			img {
+				margin: 0 auto;
+				width: auto;
+			}
+		}
 	}
 
 /* List */
@@ -716,6 +726,7 @@
 					z-index: -1;
 				}
 			}
+
 
 			&.shade-one {
 				background-color: #375A8C;
