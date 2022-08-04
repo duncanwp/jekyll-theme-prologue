@@ -5,28 +5,18 @@ icon: none
 ---
 
 ### Submitted
- - Che, H., Stier, P., **Watson-Parris, D.**, Gordon, H.,
-    Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
-    *Submitted to Atmospheric Chemistry and Physics*: <https://acp.copernicus.org/preprints/acp-2022-43/>
+ - Bouabid, S., **Watson-Parris, D.**, Stefanovic, S., Nenes, A., Sejdinovic, D. 
+   "AODisaggregation: toward global aerosol vertical profiles". *Submitted to Environmental Data Science*
+ - **Watson-Parris, D.**, Christensen, M., Laurenson, A., Clewley, D., Gryspeerdt, E., Stier, P. "Shipping regulations 
+   lead to large reduction in cloud perturbations". *Under review at PNAS* 
+ - **Watson-Parris, D.** & Smith, C. J. "Large uncertainty in future warming due to aerosol forcing". *Under review at Nature Climate Change*
+ - Harder, P., **Watson-Parris, D.**, Stier, P., Strassel, D., Gauger, N.R., Keuper, J. "Physics-Informed Learning of Aerosol Microphysics". _Submitted to Environmental Data Science_
  - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench: A benchmark dataset for data-driven climate projections". 
    *Submitted to Journal of Advances in Modeling Earth Systems:* <https://doi.org/10.1002/essoar.10509765.1>
- - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
-   control of effective radiative forcing by the spatial pattern of 
-   absorbing aerosol". *Under review at Nature Climate Change:*
-   <https://doi.org/10.21203/rs.3.rs-1015938/v1>
- - Whaley, C. H., Mahmood, R., Salzen, K., Winter, B., Eckhardt, S., ..., 
-   **Watson-Parris, D.**, Weiss-Gibbons, T. "Model evaluation of 
-   short-lived climate forcers for the Arctic Monitoring and Assessment 
-   Programme: a multi-species, multi-model study". 
-   *Submitted to Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-975>
  - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
    "Observational constraints reduce estimates of the 
    global mean climate relevance of black carbon". *Under review at
    Nature Climate Change*
- - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
-   global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
-   Journal of Advances in Modeling Earth Systems*
  - Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
     Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog,
     Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
@@ -34,6 +24,24 @@ icon: none
     at Nature Geoscience*
 
 ### 2021
+ - Manshausen, P., **Watson-Parris, D.**, Christensen, M., Jalkenen, J.P., Stier, P. "Invisible Ship Tracks Show Strong 
+   Cloud Sensitivity to Aerosol". *Accepted at Nature*
+ - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
+   control of effective radiative forcing by the spatial pattern of 
+   absorbing aerosol". *Nature Climate Change:*
+   <https://doi.org/10.1038/s41558-022-01415-4>
+ - Che, H., Stier, P., **Watson-Parris, D.**, Gordon, H.,
+    Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
+    *Atmospheric Chemistry and Physics*: <https://acp.copernicus.org/preprints/acp-2022-43/>
+ - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
+   global atmosphere-aerosol model ICON-A-HAM2.3". 
+ - *Journal of Advances in Modeling Earth Systems:* <https://doi.org/10.1029/2021MS002699>
+ - Whaley, C. H., Mahmood, R., Salzen, K., Winter, B., Eckhardt, S., ..., 
+   **Watson-Parris, D.**, Weiss-Gibbons, T. "Model evaluation of 
+   short-lived climate forcers for the Arctic Monitoring and Assessment 
+   Programme: a multi-species, multi-model study". 
+   *Atmospheric Chemistry and Physics:*
+   <https://doi.org/10.5194/acp-2021-975>
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
    calibration using ESEm v1.1.0 – an open, scalable Earth System
    Emulator". *Geoscientific Model Development, 14:*
