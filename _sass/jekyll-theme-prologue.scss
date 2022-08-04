@@ -404,11 +404,16 @@
 	table {
 		width: 100%;
 		text-align: left;
+		color: #fff;
+		font-size: 0.8em;
 
 		tbody {
 			tr {
 				&:nth-child(2n+2) {
-					background: #f4f4f4;
+					background: #325380;
+				}
+				&:nth-child(2n+1) {
+					background: #5085CC;
 				}
 			}
 		}

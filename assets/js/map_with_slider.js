@@ -125,7 +125,7 @@ $(document).ready(function () {
         /// Hover styling
         const selectStyle = new ol.style.Style({
           fill: new ol.style.Fill({
-            color: '#eeeeee',
+            color: 'rgba(255, 255, 255, 0.0)',
           }),
           stroke: new ol.style.Stroke({
             color: 'rgba(255, 255, 255, 0.7)',
@@ -144,7 +144,6 @@ $(document).ready(function () {
 
           map.forEachFeatureAtPixel(e.pixel, function (f) {
             selected = f;
-            selectStyle.getFill().setColor(f.get('COLOR') || '#eeeeee');
             f.setStyle(selectStyle);
             return true;
           });
@@ -155,7 +154,6 @@ $(document).ready(function () {
             // info.innerHTML = '&nbsp;'; // Don't blank out the info once we move off the track
           }
 
-
-            });
         });
+    });
 });
