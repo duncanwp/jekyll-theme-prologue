@@ -18,9 +18,10 @@ $(document).ready(function () {
             view: new ol.View({
                 maxResolution: 0.5625,
                 projection: ol.proj.get("EPSG:4326"),
-                extent: [-180, -90, 180, 90],
+                extent: [-180, -80, 180, 80],
                 center: [0, 10],
-                zoom: 0.7,
+                zoom: 1.0,
+                minZoom: 1.0,
                 maxZoom: 8
             }),
             target: "map",
@@ -33,7 +34,8 @@ $(document).ready(function () {
                 source: new ol.source.Vector({
                     url: '/assets/files/daily_shiptrack_files/' + dayParameter() + '_shiptracks.geojson',
                     // url: 'https://gibs-{a-c}.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?TIME=' + dayParameter(),
-                    format: new ol.format.GeoJSON({geometryName: 'geometry'})
+                    format: new ol.format.GeoJSON({geometryName: 'geometry'}),
+                    wrapX: false
                 }),
                 style: new ol.style.Style({
                     stroke: new ol.style.Stroke({
@@ -121,53 +123,39 @@ $(document).ready(function () {
         update();
 
         /// Hover styling
-        const featureOverlay = new ol.layer.Vector({
-          source: new ol.source.Vector(),
-          map: map,
-          style: new ol.style.Style({
-            stroke: new ol.style.Stroke({
-              color: 'rgba(255, 255, 255, 0.7)',
-              width: 2,
-            }),
+        const selectStyle = new ol.style.Style({
+          fill: new ol.style.Fill({
+            color: '#eeeeee',
+          }),
+          stroke: new ol.style.Stroke({
+            color: 'rgba(255, 255, 255, 0.7)',
+            width: 2,
           }),
         });
 
-        let highlight;
-        const displayFeatureInfo = function (pixel) {
-          const feature = map.forEachFeatureAtPixel(pixel, function (feature) {
-            return feature;
+        const info = document.getElementById('info');
+
+        let selected = null;
+        map.on('pointermove', function (e) {
+          if (selected !== null) {
+            selected.setStyle(undefined);
+            selected = null;
+          }
+
+          map.forEachFeatureAtPixel(e.pixel, function (f) {
+            selected = f;
+            selectStyle.getFill().setColor(f.get('COLOR') || '#eeeeee');
+            f.setStyle(selectStyle);
+            return true;
           });
 
-          const info = document.getElementById('info');
-          if (feature) {
-            info.innerHTML = feature.get('MODIS_tile') || '&nbsp;';
+          if (selected) {
+            info.innerHTML = selected.get('MODIS_tile');
           } else {
-            // info.innerHTML = '&nbsp;';  // Don't clear the label if we move off it
+            // info.innerHTML = '&nbsp;'; // Don't blank out the info once we move off the track
           }
 
-          if (feature !== highlight) {
-            if (highlight) {
-              featureOverlay.getSource().removeFeature(highlight);
-            }
-            if (feature) {
-              featureOverlay.getSource().addFeature(feature);
-            }
-            highlight = feature;
-          }
-        };
 
-        map.on('pointermove', function (evt) {
-          if (evt.dragging) {
-            return;
-          }
-          const pixel = map.getEventPixel(evt.originalEvent);
-          displayFeatureInfo(pixel);
+            });
         });
-
-        map.on('click', function (evt) {
-          displayFeatureInfo(evt.pixel);
-        });
-
-
-    });
 });
