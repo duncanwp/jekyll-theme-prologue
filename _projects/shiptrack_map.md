@@ -17,8 +17,7 @@ algorithm. Each track as an associated MODIS timestamp so you can easily match w
     </div>
 </div>
  
-*Note*, these tracks have been simplified and compressed for easy browsing. If you need the exact tracks used 
-in our analysis please see the links below.
+*Note*, these tracks have been simplified and compressed for easy browsing. They are also not always very obvious in RGB imagery shown above, but the detection algorithm uses a microphysical composite as described in the paper. If you need the exact tracks used in our analysis please see the links below. 
 
 ## Data
  - The shiptrack database can be found on Zenodo: TBC
