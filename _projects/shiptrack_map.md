@@ -20,7 +20,7 @@ algorithm. Each track as an associated MODIS timestamp so you can easily match w
 *Note*, these tracks have been simplified and compressed for easy browsing. They are also not always very obvious in RGB imagery shown above, but the detection algorithm uses a microphysical composite as described in the paper. If you need the exact tracks used in our analysis please see the links below. 
 
 ## Data
- - The shiptrack database can be found on Zenodo: TBC
- - The raw inference masks are much bigger but also freely available here: TBC  
+ - The shiptrack database can be found on [Zenodo](https://doi.org/10.5281/zenodo.7038702)
+ - The raw inference masks are much bigger but also freely available [here](https://catalogue.ceda.ac.uk/uuid/0d88dc06fd514e8199cdd653f00a7be0)
  
 
