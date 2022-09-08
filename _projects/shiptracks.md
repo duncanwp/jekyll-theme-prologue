@@ -4,6 +4,7 @@ layout: project
 icon: fa-ship
 icon-style: solid
 order: 3
+hide: true
 ---
 
 Studied for many decades now, ship-tracks are a classic example of aerosol-cloud interactions. These perturbations to cloud albedo by aerosol emitted from ship exhaust are however very local and attempts to understand their relevance in terms of estimating global cloud droplet number and liquid water sensitivities flounder on the question of their representativeness. 
