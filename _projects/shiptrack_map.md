@@ -6,7 +6,7 @@ icon-style: solid
 order: 4
 ---
 
-Easily browse all the ship-tracks detected in [Watson-Parris et al. 2022]() using our machine learning
+Easily browse all the ship-tracks detected in [Watson-Parris et al. 2022](https://www.pnas.org/doi/10.1073/pnas.2206885119) using our machine learning
 algorithm. Each track as an associated MODIS timestamp so you can easily match with the underlying data. See the 
 [ship-track detection](shiptracks) page for more details on their importance and effects. 
 
