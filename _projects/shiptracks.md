@@ -4,7 +4,6 @@ layout: project
 icon: fa-ship
 icon-style: solid
 order: 3
-hide: true
 ---
 
 Studied for many decades now, ship-tracks are a classic example of aerosol-cloud interactions. These perturbations to cloud albedo by aerosol emitted from ship exhaust are however very local and attempts to understand their relevance in terms of estimating global cloud droplet number and liquid water sensitivities flounder on the question of their representativeness. 
@@ -20,7 +19,7 @@ I have developed a deep convolutional neural network model trained on several ex
 ### Changing emissions regulations
 
 Using this database we found that the change in shipping regulations enforced by the International Maritime 
-Organization in 2020 caused a marked reduction in tracks. As we describe in our recent PNAS paper, no such change is 
+Organization in 2020 caused a marked reduction in tracks. As we describe in our recent [PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2206885119), no such change is 
 seen in other cloud properties and this constitutes the first clear evidence of a global response of clouds to environmental regulations.  
 
 <span class="image inline img"><img src="{{ 'assets/images/shiptrack_timeseries.png' | relative_url }}"/></span>
@@ -50,9 +49,9 @@ clouds in response to aerosolis much larger than was recently assessed by the IP
 
 ## Relevant papers
  - **Watson-Parris, D.**, Christensen, M., Laurenson, A., Clewley, D., Gryspeerdt, E., Stier, P. "Shipping regulations 
-   lead to large reduction in cloud perturbations". *Under review at PNAS* 
+   lead to large reduction in cloud perturbations". PNAS 119 (41) e2206885119: https://doi.org/10.1073/pnas.2206885119
  - Manshausen, P., **Watson-Parris, D.**, Christensen, M., Jalkenen, J.P., Stier, P. "Invisible Ship Tracks Show Strong 
-   Cloud Sensitivity to Aerosol". *Accepted at Nature*
+   Cloud Sensitivity to Aerosol". Nature 610 (7930): https://www.nature.com/articles/s41586-022-05122-0
  - **Watson-Parris, D.**, Sutherland, S., Christensen, M., Caterini,
     A., Sejdinovic, D., Stier, P. "Detecting anthropogenic cloud
     perturbations with deep learning" *Climate Change: How Can AI Help?
@@ -60,4 +59,4 @@ clouds in response to aerosolis much larger than was recently assessed by the IP
     <https://arxiv.org/abs/1911.13061>  
 
 ## Code
- - Coming soon!
+ - [Shiptrack detection](https://github.com/duncanwp/shiptrack-detection)
