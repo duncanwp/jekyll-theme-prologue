@@ -28,7 +28,7 @@ reduction in shipping emissions of SOx.*
 
 
 ### Invisible ship-tracks
-Rather than searching for visible tracks in the clouds, in [Manshausen et al. 2020]() we used the locations of 
+Rather than searching for visible tracks in the clouds, in [Manshausen et al. 2022](https://www.nature.com/articles/s41586-022-05122-0) we used the locations of 
 ships at a given time to determine where the tracks *should* be. Combining with remote sensing and weather data allowed us to 
 measure the number of droplets and the amount of water in both polluted and unpolluted clouds. 
 
@@ -45,13 +45,13 @@ Angola) with other regions, where they are less commonly seen (the cumulus cloud
  
 Previous studies would have missed these stronger responses in the case of invisible tracks. 
 From our observations, we estimate that the cooling that results from the increases in liquid water in 
-clouds in response to aerosolis much larger than was recently assessed by the IPCC AR6.
+clouds in response to aerosols much larger than was recently assessed by the IPCC AR6.
 
 ## Relevant papers
  - **Watson-Parris, D.**, Christensen, M., Laurenson, A., Clewley, D., Gryspeerdt, E., Stier, P. "Shipping regulations 
-   lead to large reduction in cloud perturbations". *Under review at PNAS* 
- - Manshausen, P., **Watson-Parris, D.**, Christensen, M., Jalkenen, J.P., Stier, P. "Invisible Ship Tracks Show Strong 
-   Cloud Sensitivity to Aerosol". *Accepted at Nature*
+   lead to large reduction in cloud perturbations". *PNAS 119 (41) e2206885119*: <https://doi.org/10.1073/pnas.2206885119>
+ - \*Manshausen, P., **Watson-Parris, D.**, Christensen, M., Jalkenen, J.P., Stier, P. "Invisible Ship Tracks Show 
+   Strong Cloud Sensitivity to Aerosol". *Nature 610, 101–106*: <https://doi.org/10.1038/s41586-022-05122-0>
  - **Watson-Parris, D.**, Sutherland, S., Christensen, M., Caterini,
     A., Sejdinovic, D., Stier, P. "Detecting anthropogenic cloud
     perturbations with deep learning" *Climate Change: How Can AI Help?
@@ -59,4 +59,7 @@ clouds in response to aerosolis much larger than was recently assessed by the IP
     <https://arxiv.org/abs/1911.13061>  
 
 ## Code
- - Coming soon!
+ - https://github.com/duncanwp/shiptrack-detection
+
+## Data
+ - https://catalogue.ceda.ac.uk/uuid/0d88dc06fd514e8199cdd653f00a7be0

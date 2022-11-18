@@ -4,34 +4,44 @@ order: 1
 icon: none
 ---
 
+\* = (co-)supervised
+
 ### Submitted
+ - \*Bouabid, S., **Watson-Parris, D.**, Stefanovic, S., Nenes, A., Sejdinovic, D. "AODisaggregation: toward global 
+   aerosol 
+ vertical profiles". *Submitted to Environmental Data Science*: <https://arxiv.org/abs/2205.04296>
+ - \*Harder, P., **Watson-Parris, D.**, Stier, P., Strassel, D., Gauger, N.R., Keuper, J. "Physics-Informed Learning of 
+   Aerosol Microphysics". *Submitted to Environmental Data Science*: <https://arxiv.org/abs/2207.11786>
+
+### 2022
+ - **Watson-Parris, D.** & Smith, C. J. "Large uncertainty in future warming due to aerosol forcing". *Nature Climate 
+   Change*: <https://doi.org/10.1038/s41558-022-01516-0>
+ - **Watson-Parris, D.**, Christensen, M., Laurenson, A., Clewley, D., Gryspeerdt, E., Stier, P. "Shipping regulations 
+   lead to large reduction in cloud perturbations". *PNAS 119 (41) e2206885119*: <https://doi.org/10.1073/pnas.2206885119>
+#### Highlight: "Air pollution cools climate more than expected – this makes cutting carbon emissions more urgent." *[The Conversation](https://theconversation.com/air-pollution-cools-climate-more-than-expected-this-makes-cutting-carbon-emissions-more-urgent-192433)* 
+ - \*Manshausen, P., **Watson-Parris, D.**, Christensen, M., Jalkenen, J.P., Stier, P. "Invisible Ship Tracks Show 
+   Strong Cloud Sensitivity to Aerosol". *Nature 610, 101–106*: <https://doi.org/10.1038/s41586-022-05122-0>
+#### Briefing: "[Finding the invisible traces of shipping in marine clouds](https://www.nature.com/articles/d41586-022-03026-7)" *Nature*
+ - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench v1.0: A benchmark for data-driven climate projections". 
+   *Journal of Advances in Modeling Earth Systems 14, e2021MS002954*: <https://doi.org/10.1029/2021MS002954>
  - Che, H., Stier, P., **Watson-Parris, D.**, Gordon, H.,
-    Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
-    *Submitted to Atmospheric Chemistry and Physics*: <https://acp.copernicus.org/preprints/acp-2022-43/>
- - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench: A benchmark dataset for data-driven climate projections". 
-   *Submitted to Journal of Advances in Modeling Earth Systems:* <https://doi.org/10.1002/essoar.10509765.1>
- - Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
+    Deaconu, L. "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and 
+   radiation in the south-eastern Atlantic".
+    *Atmospheric Chemistry and Physics 22, 10789–10807*: <https://doi.org/10.5194/acp-22-10789-2022>
+ - \*Williams, A., Stier, P., Dagan. G., **Watson-Parris, D.** "Strong
    control of effective radiative forcing by the spatial pattern of 
-   absorbing aerosol". *Under review at Nature Climate Change:*
-   <https://doi.org/10.21203/rs.3.rs-1015938/v1>
+   absorbing aerosol". *Nature Climate Change:*
+   <https://doi.org/10.1038/s41558-022-01415-4>
+ - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
+   global atmosphere-aerosol model ICON-A-HAM2.3". *Journal of Advances in Modeling Earth Systems 14, e2021MS002699*: <https://doi.org/10.1029/2021MS002699>
  - Whaley, C. H., Mahmood, R., Salzen, K., Winter, B., Eckhardt, S., ..., 
    **Watson-Parris, D.**, Weiss-Gibbons, T. "Model evaluation of 
    short-lived climate forcers for the Arctic Monitoring and Assessment 
    Programme: a multi-species, multi-model study". 
-   *Submitted to Atmospheric Chemistry and Physics:*
-   <https://doi.org/10.5194/acp-2021-975>
- - Myhre, G., Samset, B. H., Stjern, C. W., ..., **Watson-Parris, D.**
-   "Observational constraints reduce estimates of the 
-   global mean climate relevance of black carbon". *Under review at
-   Nature Climate Change*
- - Salzmann, M., ..., **Watson-Parris, D.**, ..., Tegen, I. "The 
-   global atmosphere-aerosol model ICON-A-HAM2.3". *Submitted to
-   Journal of Advances in Modeling Earth Systems*
- - Kramer, R.J., Soden, B.J., Smith, C.J., Myhre, G., Forster, P.M.,
-    Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog,
-    Ø., ..., **Watson-Parris, D.** "Inter-model spread in instantaneous
-    radiative forcing across multiple climate drivers". *Under review
-    at Nature Geoscience*
+   *Atmospheric Chemistry and Physics:* <https://doi.org/10.5194/acp-22-5775-2022>
+ - Christensen, M., Gettelman, A., ..., **Watson-Parris, D.**, ... "Opportunistic Experiments to Constrain Aerosol 
+   Effective 
+   Radiative Forcing". *Atmospheric Chemistry and Physics, 22*: <https://doi.org/10.5194/acp-22-641-2022>
 
 ### 2021
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
