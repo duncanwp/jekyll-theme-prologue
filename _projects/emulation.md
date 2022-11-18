@@ -29,12 +29,21 @@ general workflow for emulating and validating a
   ensure robustness, extensibility and scalability. I've also been involved with the development of a novel neural [architecture search algorithm](https://arxiv.org/abs/2001.08055) for general emulation of
  physical simulations, which was [higlighted by Science magazine](https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times).
 
+<span class="image middle"><img src="{{ 'assets/images/Figure_A2.png' | relative_url }}" alt="Climate fields as 
+output by 
+a full complexity climate model compared to those predicted by machine learning emulators" /></span>
+ *Climate fields as output by 
+a full complexity climate model compared to those predicted by machine learning emulators in ClimateBench.*
+
 I have also been developing a Climate model emulation becnhmark dataset called [ClimateBench](https://github.
-com/duncanwp/ClimateBench) designed for scenario exploration and inspired by WeatherBench. It consists of NorESM2 
+com/duncanwp/ClimateBench) designed for scenario exploration and inspired by [WeatherBench](https://github.
+com/pangeo-data/WeatherBench). It consists of NorESM2 
 simulation outputs with associated forcing data processed in to a consistent format from a variety of experiments 
-performed for CMIP6. Benchmark models and evaluation criteria are described in a forthcoming publication. 
+performed for CMIP6. Benchmark models and evaluation criteria are described in the full [publication](https://doi.org/10.1029/2021MS002954). 
  
 ## Relevant papers
+ - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench v1.0: A benchmark for data-driven climate projections". 
+   *Journal of Advances in Modeling Earth Systems 14, e2021MS002954*: <https://doi.org/10.1029/2021MS002954>
  - **Watson-Parris, D.**, Williams, A., Deaconu, L., Stier, P. "Model
    calibration using ESEm v1.1.0 – an open, scalable Earth System
    Emulator". *Accepted at Geoscientific Model Development:*
@@ -60,7 +69,8 @@ performed for CMIP6. Benchmark models and evaluation criteria are described in a
     *Accepted at Machine Learning: Science and Technology:* <https://arxiv.org/abs/2001.08055>  
 
 ## Code
- - <https://github.com/duncanwp/GCEm>
+ - [ESEm](https://github.com/duncanwp/ESEm)
+ - [ClimateBench](https://github.com/duncanwp/ClimateBench)
 
 ## Data
  - ClimateBench: <https://doi.org/10.5281/zenodo.5196512>
