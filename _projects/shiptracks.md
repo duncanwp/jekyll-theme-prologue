@@ -19,7 +19,7 @@ I have developed a deep convolutional neural network model trained on several ex
 ### Changing emissions regulations
 
 Using this database we found that the change in shipping regulations enforced by the International Maritime 
-Organization in 2020 caused a marked reduction in tracks. As we describe in our recent PNAS paper, no such change is 
+Organization in 2020 caused a marked reduction in tracks. As we describe in our recent [PNAS paper](https://www.pnas.org/doi/10.1073/pnas.2206885119), no such change is 
 seen in other cloud properties and this constitutes the first clear evidence of a global response of clouds to environmental regulations.  
 
 <span class="image inline img"><img src="{{ 'assets/images/shiptrack_timeseries.png' | relative_url }}"/></span>
@@ -59,7 +59,7 @@ clouds in response to aerosols much larger than was recently assessed by the IPC
     <https://arxiv.org/abs/1911.13061>  
 
 ## Code
- - https://github.com/duncanwp/shiptrack-detection
+ - [Shiptrack detection](https://github.com/duncanwp/shiptrack-detection)
 
 ## Data
  - https://catalogue.ceda.ac.uk/uuid/0d88dc06fd514e8199cdd653f00a7be0
