@@ -9,7 +9,7 @@ icon: none
 ### 2022
  - Tazi, K., Salas-Porras, E. D., Braude, A., Okoh, D., Lamb, K. D., **Watson-Parris, D.**, Harder, P., Meinert, N. 
    "Pyrocast: A Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) clouds" *Climate Change AI workshop 
-   at NeurIPS 2022*
+   at NeurIPS 2022*: <https://arxiv.org/abs/2211.13052>
  - Salas-Porras, E. D., Tazi, K., Braude, A., Okoh, D., Lamb, K. D., **Watson-Parris, D.**, Harder, P., Meinert, N. 
    "Identifying causes of Pyrocumulonimbus (PyroCb)" *Causal Machine Learning for Real-World Impact Workshop at 
    NeurIPS 2022*: 
