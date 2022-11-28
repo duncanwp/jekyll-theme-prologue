@@ -10,7 +10,7 @@ icon: none
  - Regayre, L. A., Deaconu, L., Grosvenor, D. P., Sexton, D., Symonds, C. C., Langton, T., **Watson-Paris, D.**, 
    Mulcahy, J. P., Pringle, K. J., Richardson, M. G., Johnson, J. S., Rostron, J., Gordon, H., Lister, G., Stier, P.,
    and Carslaw, K. S. "Identifying climate model structural inconsistencies allows for tight constraint of aerosol 
-   radiative forcing". *EGUsphere*: <https://doi.org/10.5194/egusphere-2022-1330>
+   radiative forcing". *Submitted to PNAS*: <https://doi.org/10.5194/egusphere-2022-1330>
  - \*Bouabid, S., **Watson-Parris, D.**, Stefanovic, S., Nenes, A., Sejdinovic, D. "AODisaggregation: toward global 
    aerosol 
  vertical profiles". *Submitted to Environmental Data Science*: <https://arxiv.org/abs/2205.04296>
