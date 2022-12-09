@@ -40,6 +40,8 @@ com/duncanwp/ClimateBench) designed for scenario exploration and inspired by [We
 com/pangeo-data/WeatherBench). It consists of NorESM2 
 simulation outputs with associated forcing data processed in to a consistent format from a variety of experiments 
 performed for CMIP6. Benchmark models and evaluation criteria are described in the full [publication](https://doi.org/10.1029/2021MS002954). 
+
+*New!* You can now interact with an online ClimateBench emulator [here](climatebench_app)! 
  
 ## Relevant papers
  - **Watson-Parris, D.**, Rao, Y., Olivié, D., Seland, Ø., ... "ClimateBench v1.0: A benchmark for data-driven climate projections". 
